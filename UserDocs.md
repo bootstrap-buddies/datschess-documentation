@@ -30,15 +30,10 @@
 * Question
   * Answer
 
-
 ## Appendix
 ### Links to code repositories
   * [Chessboardjsx Repository](https://github.com/willb335/chessboardjsx)
   * [Chess.js Repository](https://github.com/jhlywa/chess.js)
   * [React documentation](https://reactjs.org/)
-### Evidence of effort for each team member.
-  * https://github.com/ChrisTatlonghari/BootstrapBuddies/blob/main/documentation/timeline/proofOfEffort.md
-
-
 
 #### Project Start Date:  9/14/21
