@@ -6,7 +6,7 @@
   * https://github.com/ChrisTatlonghari/BootstrapBuddies/blob/main/documentation/projectAbstract.md
 
 * Project Description
-* https://github.com/ChrisTatlonghari/BootstrapBuddies/blob/main/documentation/projectDescription.md
+  * https://github.com/ChrisTatlonghari/BootstrapBuddies/blob/main/documentation/projectDescription.md
 
 ## How To Navigate Through Our Site (place steps in)
 1.
