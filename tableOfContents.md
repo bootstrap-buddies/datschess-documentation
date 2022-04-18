@@ -2,17 +2,18 @@
 
 1. Project Description
     - DATS Chess is an AI chess engine with an associated web application.  The DATS chess engine is made in accordance with the Universal Chess Interface and is capable of communicating with current engines such as Stockfish, AlphaZero, etc. 
-
-2. Test Plan and Results
+2. User Interface Specification
+   - https://github.com/bootstrap-buddies/datschess-documentation/blob/main/uiSpec.md
+3. Test Plan and Results
     - https://github.com/bootstrap-buddies/datschess-documentation/blob/main/testPlan.pdf
 
-3. User Manual
+4. User Manual
     - https://github.com/bootstrap-buddies/datschess-documentation/blob/main/UserDocs.md
 
-4. Spring Final PPT Presentation
+5. Spring Final PPT Presentation
     - https://github.com/bootstrap-buddies/datschess-documentation/blob/main/datschess.pptx
 
-5. Final Expo Poster
+6. Final Expo Poster
     - https://onedrive.live.com/?authkey=%21AFsWjA%5F%5FbIMYcbI&cid=F45EFD2D96BDB9ED&id=F45EFD2D96BDB9ED%2112588&parId=F45EFD2D96BDB9ED%21105&o=OneUp
 
 7.  Assessments
