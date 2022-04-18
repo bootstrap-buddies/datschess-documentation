@@ -22,13 +22,13 @@
 
 1. Summary of Hours and Justification
     - AJ Delcimmuto: 50 hours -> designed new features for the front end application. Built a websocket that is used to send messages between the front end and the chess engine. Reconfigured the engine to add support for asyncronous pipe messages from the web socket.
-    - Chris Tatlonghari: 
-    - Joe Snider:
-    - Rouba Al-Khasawneh:
+    - Chris Tatlonghari: 50 hours -> Built a strong basis for the engine architecture. The engine is completely custom built from the ground up. It is also able to play a full game against itself. It is built using UCI, which is a chess communication protocol that enables communication with many different GUIs.
+    - Joe Snider: 50 hours -> Began building out our database architecture to store user information and game history.
+    - Rouba Al-Khasawneh: 50 hours -> Began building key features for the front end.
 
 The Final Design Report Summary of Hours:
 
-  - AJ Delcimmuto: 100 hours -> Designed a built the basis of the web application. Implemented game logic and chess board UI. Also, Designed new features for the front end application. Built a websocket that is used to send messages between the front end and the chess engine. Reconfigured the engine to add support for asyncronous pipe messages from the web socket.
-  - Chris Tatlonghari: 
-  - Joe Snider:
-  - Rouba Al-Khasawneh:
+  - AJ Delcimmuto: 100 hours -> Designed and built the basis of the web application. Implemented game logic and chess board UI. Also, built new features for the front end application. Built a websocket that is used to send messages between the front end and the chess engine. Reconfigured the engine to add support for asyncronous pipe messages from the web socket.
+  - Chris Tatlonghari: 100 Hours -> Research a basic structure for the chess engine. Also built a strong basis for the engine. The engine is completely custom built from the ground up. It is also able to play a full game against itself. It is built using UCI, which is a chess communication protocol that enables communication with many different GUIs.
+  - Joe Snider: 100 hours -> Research basic and common machine learning practices. Began building out our database architecture to store user information and game history.
+  - Rouba Al-Khasawneh: 100 hours -> Research on designing the layout of the web application. Began building key features for the front end.
